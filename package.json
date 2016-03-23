@@ -1,0 +1,27 @@
+{
+  "name": "rogain-component-else",
+  "version": "1.0.0",
+  "description": "Rogain <Else /> helper component",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test/*.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/krambuhl/rogain-component-else.git"
+  },
+  "keywords": [
+    "rogain",
+    "rogain-component",
+    "core"
+  ],
+  "author": "Evan Krambuhl <thekrambuhl@gmail.com> (http://stumptownbear.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/krambuhl/rogain-component-else/issues"
+  },
+  "homepage": "https://github.com/krambuhl/rogain-component-else",
+  "devDependencies": {
+    "tape": "^4.4.0"
+  }
+}
